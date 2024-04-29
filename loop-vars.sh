@@ -2,7 +2,7 @@
 
 installing
 --------------------------------------------------------
-
+---
 - name: Install software packages
   hosts: webserver
   tasks:
